@@ -31,7 +31,6 @@ export default async function Home() {
     <div>
       <main>
         <div className="flex flex-col gap-4">
-          <h1 className="text-5xl">CryptoWire</h1>
           <div className="flex gap-4">
             <div className="border p-4">
               <h2 className="text-4xl mb-4">Articles</h2>
